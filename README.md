@@ -32,9 +32,3 @@ Na tela do Expo, basta clicar em "Run on Android device/emulator"
 ## Imagens do Projeto
 
 ![WeatherApp](https://i.ibb.co/z4tQQ8g/thumb.png)
-
-![Splash Screen](https://i.ibb.co/3B9YLS4/Screenshot-20200801-155701-Expo.jpg)
-
-![Tela 1](https://i.ibb.co/SXskrbf/Screenshot-20200801-155709-Expo.jpg)
-
-![Tela 2](https://i.ibb.co/B3qWyHD/Screenshot-20200801-155729-Expo.jpg)
